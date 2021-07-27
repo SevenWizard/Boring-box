@@ -1,5 +1,3 @@
-# note
-just another repository
-hello! 
+# note 
 i like c 
 
